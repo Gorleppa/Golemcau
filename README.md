@@ -1,0 +1,2 @@
+# Golemcau
+Ist just testnet
